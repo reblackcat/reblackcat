@@ -2,7 +2,6 @@
 - 😄 My name is reblackcat.
 - I'm currently a master candidate in ZJU majoring in Artificial Intelligence.
 - I'm interested in C# & .NET right now.
-- 
 
 <!--
 **reblackcat/reblackcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
